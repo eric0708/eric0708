@@ -7,9 +7,9 @@
 
 ### About me 
 
-- 👩🏻‍🎓 ECE Graduate Student at CMU
+- 🎓 ECE Graduate Student at CMU
 - 🤖 Active Machine Learning Researcher at [CMU CyLab](https://www.cylab.cmu.edu/)
-- 👯 Always Open for Fun Machine Learning Collaborations
+- 🤝 Always Open for Fun Tech Collaborations
 - 💻 Completed Internship at [LINE](https://line.me/en/)
 - 🎓 NTU Alumni
 - 🎵 Music Enthusiast [SYENS](https://www.youtube.com/@SYENS-gv5yj)
